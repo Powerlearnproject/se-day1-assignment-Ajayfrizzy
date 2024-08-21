@@ -47,8 +47,8 @@ Ans:
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Ans:
-1. Integrated Development Environments (IDEs): Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA, Sublime text and Notepad++).
-2. Version Control Systems (VCS): Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion, bitbucket, gitlab).
+1. **Integrated Development Environments (IDEs):** Software suites that provide comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA, Sublime text and Notepad++).
+2. **Version Control Systems (VCS):** Software tools for tracking changes to source code and coordinating work among team members (e.g., Git, Subversion, bitbucket, gitlab).
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
@@ -78,6 +78,7 @@ Ans: Define Prompt engineering
 Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models. It just mean giving a concise or specific question to AI.
 
 **It importance**
+
 Prompt engineering helps us avoid vague responses from AI by ensuring our questions are clear and specific, so the AI can understand our exact needs.
 
 
