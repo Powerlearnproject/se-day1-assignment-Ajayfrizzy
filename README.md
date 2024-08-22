@@ -14,7 +14,7 @@ Software engineering plays a crucial role in the technology industry by enabling
 
 **Identify and describe at least three key milestones in the evolution of software engineering.**
 
-**Milestones include the **
+**Milestones include**
 
 1. Development of programming languages (e.g., Fortran, C).
 
